@@ -2,11 +2,11 @@
 This python script simply activates your windows
 # Windows versions this script can activate:
 
-**Vista**
-Windows Vista Enterprise N
-Windows Vista Enterprise
-Windows Vista Business N
-Windows Vista Business
+**Vista: **
+Windows Vista Enterprise N |
+Windows Vista Enterprise |
+Windows Vista Business N |
+Windows Vista Business |
 
 **windows 7**
 Windows 7 Enterprise E
